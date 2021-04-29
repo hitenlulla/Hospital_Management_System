@@ -11,4 +11,4 @@ Make sure to pip install the required modules and have MySQL installed on your m
 And login to the app using your MySQL credentials
 
 For any further queries
-Mail me at hitenlulla99@gmail.com with subject 'Support for Hospital Management System'
+mail me at hitenlulla99@gmail.com with subject 'Support for Hospital Management System'
